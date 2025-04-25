@@ -6,9 +6,9 @@
  * @returns The sum of the two numbers if add is true and false otherwise.
  */
 function sumValues(num1, num2, add) {
-    if (add) {
+    if (add) { 
         const result = 0;
-
+        //  random comment to test pipeline
         result = num1 + num2;
 
         return result;
